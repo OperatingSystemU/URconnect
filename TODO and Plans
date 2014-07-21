@@ -1,0 +1,20 @@
+PLANS:
+*Allow for bidirectional document viewing, for example the ability to view photos, videos, texts ect. from your phone on your laptop
+through a GUI and then the ability to view document, photos, videos and music from your laptop on your phone. The means of doing this must 
+be decided through the most cost effective terms weather it through onboard storage (cost effective) or cloud based (preferable)
+
+
+
+
+
+
+
+TODO:
+*Create .doc .docx .odt .pdf ect. viewer for Uconnect on Android that can sync and pull documents and photos from the laptop and 
+be viewable on the Android phone/tablet
+*Quick edit feature for editing documents and saving and syncing them (changes on phone show up on document on laptop and vise versa)
+*GUI for viewing content from phone on the laptops such as texts, music, photos, videos ect.
+*Android phone ability to sync and downloading of music from laptop and vise versa through same GUI
+*Wrap all this functionality into a intuitive and easy to use app for android and laptop
+*Decide logistics such as cloud syncing, bluetooth syncing ect. 
+*Add backup to cloud funtcionality into app for both phone and Laptops (possibly certain amount GB free and then above that you get charged)
