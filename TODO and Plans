@@ -5,8 +5,7 @@ be decided through the most cost effective terms weather it through onboard stor
 *Bidirectional syncing of everything and ability to view everything and edit everything (with edited versions being updated on both platforms)
 *Backup funtionality in app for both phone and laptop
 *Similar options with icloud in automatic syncing of catagories that the user can designate
-*[strech goal]*Ability to use phone OS on laptop screen with touchpad easily and have acess to data nativly avalible on both devices,
-sort of like projecting the phone to the laptop and allowing control of the OS from the laptops touchpad and keyboard and acess to its ports
+*Cross platform password manager (automatically fill passwords across all platforms)
 
 
 
@@ -23,3 +22,4 @@ be viewable on the Android phone/tablet
 *Wrap all this functionality into a intuitive and easy to use app for android and laptop
 *Decide logistics such as cloud syncing, bluetooth syncing ect. 
 *Add backup to cloud funtcionality into app for both phone and Laptops (possibly certain amount GB free and then above that you get charged)
+*Password manager creation and integration with mobile browsers
